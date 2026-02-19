@@ -2,9 +2,13 @@ The dataset contains data regarding the engine performance. The code performs se
 
 I have generated 4 graphs:
 1) RPM vs TPS - This is a scatter plot showing the releationship between engine RPM and throttle position. 
+![RPM vs TPS](Graphs%20Pictures/rpm_vs_tps.png)
 2) Coolant Temperature over Time - This plot shows how coolant temperature changes throughout the drive.
+![Coolant Temp](Graphs%20Pictures/coolant_temp_over_time.png)
 3) Wheel Speed Difference over Time - This plot shows my derived wheel speed difference over time.
+![Wheel Speed Difference](Graphs%20Pictures/wheel_speed_over_time.png)
 4) Battery Voltage over Time - This plot shows how battery voltage changes over the session. 
+![Battery Voltage](Graphs%20Pictures/battery_volt_over_time.png)
 
 
 Conclusions: 
